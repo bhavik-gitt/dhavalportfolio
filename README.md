@@ -268,7 +268,7 @@ This portfolio is designed to:
 
 📍 Ahmedabad, Gujarat
 
-📧 Available on portfolio contact section
+📧 dhaval30303@gmail.com
 
 📱 Available on portfolio contact section
 
