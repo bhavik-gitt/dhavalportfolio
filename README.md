@@ -270,7 +270,7 @@ This portfolio is designed to:
 
 📧 dhaval30303@gmail.com
 
-📱 Available on portfolio contact section
+📱 +91 82008 40016
 
 🌐 Portfolio Website:
 https://dhavalportfolio-blush.vercel.app
