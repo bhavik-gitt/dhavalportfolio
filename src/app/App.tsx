@@ -19,7 +19,7 @@ import { Footer } from "./components/Footer";
 export default function App() {
   useEffect(() => {
     // SEO Meta Tags
-    document.title = "Dhaval Ratnottar | Senior HR Manager | Workforce Operations Expert";
+    document.title = "Dhaval Ratnottar ";
 
     const setMeta = (attrs: Record<string, string>) => {
       const el = document.createElement("meta");
