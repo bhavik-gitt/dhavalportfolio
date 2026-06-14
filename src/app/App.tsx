@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { CustomCursor } from "./components/CustomCursor";
 import { Navbar } from "./components/Navbar";
 import { HeroSection } from "./components/HeroSection";
@@ -109,6 +110,7 @@ export default function App() {
       </main>
       <Footer />
       <AIAssistant />
+      <Analytics />
     </div>
   );
 }
